@@ -120,14 +120,9 @@ Training Data Points:    201 companies
    streamlit run streamlit_app.py
    ```
 
-4. **Access the App**
-   - Open your browser and navigate to `http://localhost:8501`
-   - Start making revenue predictions!
-
 ### 🌐 **Online Deployment**
 
-Deploy to Streamlit Cloud, Heroku, or any Python hosting platform using the included configuration files.
-
+📈 RevenueCast : [Visit Me 😎](https://revenue-cast.streamlit.app/)
 ---
 
 ## 📱 Usage Guide
@@ -176,23 +171,10 @@ Admin Costs:      $65,000
 Employee Count:   350
 Region:           North America
 
-Expected Output:  ~$195,000 annual revenue
+Expected Output:  $195,000 annual revenue
 ```
 
 ---
-
-## 📁 Project Structure
-
-```
-revenue-cast/
-├── 📄 README.md                          # Project documentation
-├── 🐍 streamlit_app.py                   # Main Streamlit application
-├── 📊 company_revenue_data.csv           # Training dataset
-├── 📓 revenue_prediction_model.ipynb     # Model development notebook
-├── 📋 requirements.txt                   # Python dependencies
-├── 🔧 .gitignore                         # Git ignore rules
-└── 📁 .qodo/                             # Development tools
-```
 
 ---
 
@@ -255,9 +237,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Nirmal Haldar**
 
-- 🔗 **LinkedIn**: [itz-nirmal](https://www.linkedin.com/in/itz-nirmal)
+- 🔗 **LinkedIn**: [Nirmal Haldar](https://www.linkedin.com/in/itz-nirmal)
 - 📧 **Email**: itz.nirma.haldar@gmail.com
-- 🐙 **GitHub**: [itz-nirmal](https://github.com/itz-nirmal)
+- 🐙 **GitHub**: [Nirmal Haldar](https://github.com/itz-nirmal)
 
 ---
 
